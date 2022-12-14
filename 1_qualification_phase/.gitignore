@@ -1,0 +1,9 @@
+.terraform*
+*terraform*
+*tfvars
+extras
+json_files
+*.out
+.ssh
+hosts
+*.yaml
